@@ -1,0 +1,7 @@
+{
+    "name": "etudiant/j26-projet_toto",
+    "description": "Liste des etudiant des sessions de Esch-Belval",
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}

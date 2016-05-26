@@ -1,0 +1,49 @@
+[
+    {
+        "name": "whatsma/zodiacsign",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/whatsma/ZodiacSign.git",
+            "reference": "4014d0e55aa38430a6a7850c041f7d5b511e1d05"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/whatsma/ZodiacSign/zipball/4014d0e55aa38430a6a7850c041f7d5b511e1d05",
+            "reference": "4014d0e55aa38430a6a7850c041f7d5b511e1d05",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.*"
+        },
+        "time": "2016-01-02 21:05:21",
+        "type": "package",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Whatsma\\ZodiacSign\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Wha Tsma",
+                "email": "whatsma.notthisbit@whatzodiacsignami.com"
+            }
+        ],
+        "description": "Calculates the zodiac sign for a given day and month.",
+        "keywords": [
+            "astrological sign",
+            "star sign",
+            "sun sign",
+            "zodiac sign"
+        ]
+    }
+]
